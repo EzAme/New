@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ezra/catkin_ex/devel/.private/using_markers/setup.sh

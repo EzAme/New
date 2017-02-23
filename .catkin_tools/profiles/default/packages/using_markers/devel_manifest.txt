@@ -1,0 +1,6 @@
+using_markers
+/home/ezra/catkin_ex/devel/.private/using_markers/lib/using_markers/basic_shapes /home/ezra/catkin_ex/devel/lib/using_markers/basic_shapes
+/home/ezra/catkin_ex/devel/.private/using_markers/lib/using_markers/points_and_lines /home/ezra/catkin_ex/devel/lib/using_markers/points_and_lines
+/home/ezra/catkin_ex/devel/.private/using_markers/lib/pkgconfig/using_markers.pc /home/ezra/catkin_ex/devel/lib/pkgconfig/using_markers.pc
+/home/ezra/catkin_ex/devel/.private/using_markers/share/using_markers/cmake/using_markersConfig-version.cmake /home/ezra/catkin_ex/devel/share/using_markers/cmake/using_markersConfig-version.cmake
+/home/ezra/catkin_ex/devel/.private/using_markers/share/using_markers/cmake/using_markersConfig.cmake /home/ezra/catkin_ex/devel/share/using_markers/cmake/using_markersConfig.cmake
