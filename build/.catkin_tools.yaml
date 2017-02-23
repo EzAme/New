@@ -1,0 +1,6 @@
+devel_space: /home/ezra/catkin_ex/devel
+install: false
+install_space: /home/ezra/catkin_ex/install
+profile: default
+source_space: /home/ezra/catkin_ex/src
+workspace: /home/ezra/catkin_ex
